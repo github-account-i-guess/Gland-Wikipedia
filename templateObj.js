@@ -1,0 +1,15 @@
+{
+    name:"",
+    birth_name:"",
+    birth_date:"",
+    birth_place:"",
+    death_date:"",
+    death_place:"",
+    died:"",
+    nationality:"",
+    other_names:"",
+    occupation:"",
+    years_active:"",
+    known_for:"",
+    notable_works:""
+}
